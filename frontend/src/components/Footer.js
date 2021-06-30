@@ -6,14 +6,10 @@ const Footer = () => {
     <footer>
       <Container>
         <Row>
-<<<<<<< HEAD
-<<<<<<< HEAD
-          
-=======
+
+
           <Col className='text-center py-3'> Shop</Col>
->>>>>>>
-          
->>>>>>>
+
         </Row>
       </Container>
     </footer>
