@@ -10,7 +10,7 @@ const Footer = () => {
 <<<<<<< HEAD
           
 =======
-          <Col className='text-center py-3'> Shop</Col>
+          <Col className='text-center py-3'> Shoping</Col>
 >>>>>>>
           
 >>>>>>>
